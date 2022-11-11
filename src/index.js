@@ -2,5 +2,5 @@
 
 import "./css/main.css";
 
-// Say hello 2
-console.log("🦊 Hello! Edit me in src/index.js");
+// Say hello shaman 2
+console.log("🦊 Hello shaman! Edit me in src/index.js");
